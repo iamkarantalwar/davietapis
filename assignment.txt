@@ -1,0 +1,14 @@
+1.Write a function that reads the marks.txt file (available in Labs folder) and prints the names of the student who obtained maximum marks in each subject. e.g. "Tom Hanks got the highest marks of 90 in CITS1401".
+2.Write a function that will calculate the average marks obtained in each subject in the above file and print them along with the subject name.
+3.If passing marks in each subject are 50, write a function that will print the number of students failed in each subject.
+4.Write a function that will calculate and print the overall total marks of each student along with the student's name.
+5.Write a function that can return the sum of the digits of the number N which is provided as an input.
+6.Write a function which takes two inputs: list of numbers and a number, and returns list of lists containing three numbers from the input lists such that the sum of three numbers equal to a given number. For instance, myfunction([1, 0, -1, 0, -2, 2], 0) returns [[-2, -1, 1, 2], [-2, 0, 0, 2], [-1, 0, 0, 1]].
+7.Write a function which takes any positive integer n, if n is even, divide it by 2 to get n/2. If n is odd, multiply it by 3 and add 1 to obtain 3n + 1. Store the results in a list and repeat the process until it reaches 1. For instance, myfunction(12) returns [12, 6.0, 3.0, 10.0, 5.0, 16.0, 8.0, 4.0, 2.0, 1.0].
+8.Write a function to take a positive integer as an input and add the digits of the input repeatedly until the result has a single digit. For instance, myfunction(48) returns 3.
+9.Write a function that can display a triangle of asterisk (*). The height of the triangle will be provided as an input. 
+      *
+     ***
+   *****
+ *******
+*********
